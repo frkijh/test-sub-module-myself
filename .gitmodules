@@ -1,3 +1,0 @@
-[submodule "submodules/my-utils"]
-	path = submodules/my-utils
-	url = https://github.com/frkijh/my-utils-lib-test-submodules.git
